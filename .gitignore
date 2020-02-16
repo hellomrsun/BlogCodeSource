@@ -1,0 +1,17 @@
+/src/2020-02-16_ASMX_WCF_WebApi/01_ASMX/AsmxWebService/.vs/
+/src/2020-02-16_ASMX_WCF_WebApi/01_ASMX/AsmxWebService/AsmxWebService/bin/
+/src/2020-02-16_ASMX_WCF_WebApi/01_ASMX/AsmxWebService/AsmxWebService/obj/
+/src/2020-02-16_ASMX_WCF_WebApi/01_ASMX/AsmxWebService/packages
+/src/2020-02-16_ASMX_WCF_WebApi/02_WCF/WcfWebService/packages/
+/src/2020-02-16_ASMX_WCF_WebApi/02_WCF/WcfWebService/.vs/
+/src/2020-02-16_ASMX_WCF_WebApi/02_WCF/WcfWebService/WcfRestWebService/bin/
+/src/2020-02-16_ASMX_WCF_WebApi/02_WCF/WcfWebService/WcfRestWebService/obj/
+/src/2020-02-16_ASMX_WCF_WebApi/02_WCF/WcfWebService/WcfSoapWebService/bin/
+/src/2020-02-16_ASMX_WCF_WebApi/02_WCF/WcfWebService/WcfSoapWebService/obj/
+/src/2020-02-16_ASMX_WCF_WebApi/03_WebApi/AspNetWebApi/.vs/
+/src/2020-02-16_ASMX_WCF_WebApi/02_WCF/WcfWebService/WcfSoapWebService/WcfSoapWebService.csproj.user
+/src/2020-02-16_ASMX_WCF_WebApi/03_WebApi/AspNetWebApi/AspNetWebApi/bin/
+/src/2020-02-16_ASMX_WCF_WebApi/03_WebApi/AspNetWebApi/AspNetWebApi/obj/
+/src/2020-02-16_ASMX_WCF_WebApi/03_WebApi/AspNetWebApi/packages/
+/src/2020-02-16_ASMX_WCF_WebApi/01_ASMX/AsmxWebService/AsmxWebService/AsmxWebService.csproj.user
+*.user
